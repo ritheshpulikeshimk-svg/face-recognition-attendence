@@ -1,0 +1,7 @@
+{
+  "name": " FaceGuard Attendance",
+  "description": "A modern, client-side Face Recognition Attendance Management System. Features student registration, webcam-based attendance marking, and comprehensive reporting dashboards.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
